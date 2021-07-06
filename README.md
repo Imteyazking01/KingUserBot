@@ -3,7 +3,7 @@
 
 <h2>Don't forget to star this repo if you liked it.!!💝</h2>
 
-[![AuraXBot logo](https://telegra.ph/file/62b6e6a1bb6ed711401ce.jpg)](https://t.me/AuraXUserbot)
+[![AuraXBot logo](https://telegra.ph/file/cc41bf154b1481f859b97.jpg)](https://t.me/AuraXUserbot)
 
 <h2 align="center">The owner would not be responsible for any kind of bans due to the bot.</h2>
 
