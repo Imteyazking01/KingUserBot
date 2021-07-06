@@ -1,9 +1,9 @@
-<h1 align="center">⚡ 𝐀 𝐔 𝐑 𝐀 𝐗 𝐁 𝐎 𝐓 ⚡</h1>
+<h1 align="center">⚡ 𝙺𝚒𝚗𝚐 𝚄𝚜𝚎𝚛𝚋𝚘𝚝 ⚡</h1>
 
 
 <h2>Don't forget to star this repo if you liked it.!!💝</h2>
 
-[![AuraXBot logo](https://telegra.ph/file/cc41bf154b1481f859b97.jpg)](https://t.me/AuraXUserbot)
+[![𝙺𝚒𝚗𝚐 𝚄𝚜𝚎𝚛𝚋𝚘𝚝 logo](https://telegra.ph/file/cc41bf154b1481f859b97.jpg)](https://t.me/AuraXUserbot)
 
 <h2 align="center">The owner would not be responsible for any kind of bans due to the bot.</h2>
 
@@ -71,7 +71,7 @@ notifications in Update Channel.
 
 ![LICENSE](https://www.gnu.org/graphics/gplv3-or-later.png)
 
-Copyright (C) 2021 iisgaurav
+Copyright (C) 2021 Imteyazking01
 
 Poject [AuraXBot](https://github.com/iisgaurav/AuraXBot) is free software under the License [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.html) v3 or later.
 
