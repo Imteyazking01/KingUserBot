@@ -4,10 +4,10 @@
 _get_repolink () {
     local regex
     regex='(https?)://github.com/.+/.+'
-    if [[ $AURAX_REPO == "AuraXBot" ]]
+    if [[ $AURAX_REPO == "KingUserBot" ]]
     then
         echo "aHR0cHM6Ly9naXRodWIuY29tL2lpc2dhdXJhdi9BdXJhWFVzZXJib3QvYXJjaGl2ZS9tYXN0ZXIuemlw" | base64 -d
-    elif [[ $AURAX_REPO == "AuraXBot" ]]
+    elif [[ $AURAX_REPO == "KingUserBot" ]]
     then
         echo "aHR0cHM6Ly9naXRodWIuY29tL2lpc2dhdXJhdi9BdXJhWFVzZXJib3QvYXJjaGl2ZS9tYXN0ZXIuemlw" | base64 -d
     elif [[ $AURAX_REPO =~ $regex ]]
@@ -37,7 +37,7 @@ _set_bot () {
     rm -rf "$zippath"
     sleep 5
     cd $AURAXPATH
-    echo "    Starting AuraXBot    "
+    echo "    Starting KingUserBot    "
     echo "
     ┏━━━┓          ┏┓    ┏┓
     ┃┏━┓┃          ┃┃   ┏┛┗┓
