@@ -30,7 +30,7 @@
 
 <h1 align="center">TO HOST  A U R A X B O T LOCALLY OR ON ANY OTHER VPS CLICK BELOW</h1>
 
-<h2 align="center"> <a href="https://github.com/AuraXNetwork/AuraXUserbot">⚡ A U R A X U S E R B O T  ⚡</a></h2>
+<h2 align="center"> <a href="https://github.com/AuraXNetwork/AuraXUserbot">⚡ 𝙺𝚒𝚗𝚐 𝚄𝚜𝚎𝚛𝚋𝚘𝚝 ⚡</a></h2>
 
 ## Mandatory Vars
 
@@ -51,7 +51,7 @@
 ```
 Get help regarding setting up 
 
-your AuraXBot in our official 
+your 𝙺𝚒𝚗𝚐 𝚄𝚜𝚎𝚛𝚋𝚘𝚝 in our official 
 
 support Group and get updates
 
