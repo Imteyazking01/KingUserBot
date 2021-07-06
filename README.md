@@ -73,7 +73,7 @@ notifications in Update Channel.
 
 Copyright (C) 2021 Imteyazking01
 
-Poject [AuraXBot](https://github.com/iisgaurav/AuraXBot) is free software under the License [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.html) v3 or later.
+Poject [𝙺𝚒𝚗𝚐 𝚄𝚜𝚎𝚛𝚋𝚘𝚝](https://github.com/Imteyazking01/King_UserBot) is free software under the License [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.html) v3 or later.
 
 
 
