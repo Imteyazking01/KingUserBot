@@ -1,4 +1,4 @@
-<h1 align="center">⚡ 𝙺𝚒𝚗𝚐 𝚄𝚜𝚎𝚛𝚋𝚘𝚝  ⚡</h1>
+<h1 align="center">⚡ 𝙺𝚒𝚗𝚐 𝚄𝚜𝚎𝚛𝚋𝚘𝚝   ⚡</h1>
 
 
 <h2>Don't forget to star this repo if you liked it.!!💝</h2>
